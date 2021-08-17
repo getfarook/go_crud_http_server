@@ -5,6 +5,7 @@ Postgres in the local system is used in the backend
 REST APIs were tested using postman application.
 APIs are saved in postman under collection CRUD-HTTP-SERVER-GO
 
+No front-end was created for this project. It was tested using postman app
 
 
 
